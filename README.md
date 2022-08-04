@@ -1,5 +1,9 @@
 # Digital business card 
 
+<p>
+  <img src="https://github.com/DariaMordvinov/digital_business_card/blob/main/src/images/Screenshot.png" width="350">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
